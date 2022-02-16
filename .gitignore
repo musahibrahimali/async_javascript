@@ -1,0 +1,13 @@
+.vs
+.vscode
+/vscode
+/vscode
+.idea
+/idea
+
+/build
+/out
+/release
+/build
+
+/node_modules
